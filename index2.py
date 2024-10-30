@@ -1,0 +1,1 @@
+pirnt('tao tren remote')
